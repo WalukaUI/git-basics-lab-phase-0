@@ -1,12 +1,12 @@
 # Git Basics Lab added by waluka
 
-## Learning Goals
+## Learning Goals edites by waluka
 
 - Understand how to complete assignments
 - Apply what you've learned about Git version control
 - Initialize a new Git repository
 - Stage and commit new content
-- Create a remote repository on GitHub
+- Create a remote repository on GitH
 - Connect the newly create local repository with the remote on GitHub
 
 ## Introduction
